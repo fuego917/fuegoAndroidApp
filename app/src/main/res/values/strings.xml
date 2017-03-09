@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">fuegoAndroidApp</string>
+    <string name="welcome">ようこそ北海道へ!</string>
 </resources>
