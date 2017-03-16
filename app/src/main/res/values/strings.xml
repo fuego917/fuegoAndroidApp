@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">fuegoAndroidApp</string>
+    <!-- 追加 -->
     <string name="welcome">ようこそ北海道へ!</string>
+    <string name="物語の舞台を選択してください"></string>
+    <string-array name="city">
+        <item>札幌</item>
+        <item>函館</item>
+        <item>帯広</item>
+        <item>釧路</item>
+        <item>失われた都市</item>
+    </string-array>
+
+
 </resources>
