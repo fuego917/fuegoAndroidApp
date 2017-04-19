@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.fuego.fuegoandroidapp.MainActivity">
 
-    <TextView
+    <!--<TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome"
@@ -14,8 +14,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.833"
-        app:layout_constraintVertical_bias="0.058" />
+        app:layout_constraintHorizontal_bias="0.798"
+        app:layout_constraintVertical_bias="0.06" />-->
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,13 +25,13 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.98"
-        app:layout_constraintVertical_bias="0.115" />
+        app:layout_constraintHorizontal_bias="0.92"
+        app:layout_constraintVertical_bias="0.054" />
 
     <ListView
         android:id="@+id/list"
-        android:layout_width="173dp"
-        android:layout_height="429dp"
+        android:layout_width="170dp"
+        android:layout_height="495dp"
         android:entries="@array/cities"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="16dp" />
