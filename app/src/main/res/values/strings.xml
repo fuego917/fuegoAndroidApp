@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">fuegoAndroidApp</string>
     <!-- 追加 -->
-    <!--<string name="welcome">ようこそ北海道へ！</string>-->
+    <string name="welcome">ようこそ北海道へ！</string>
     <string name="select">物語の舞台を選んでください</string>
     <string-array name="cities">
         <item>札幌</item>
@@ -11,3 +11,7 @@
         <item>失われた都市</item>
     </string-array>
 </resources>
+
+
+
+
